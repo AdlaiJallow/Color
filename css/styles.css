@@ -1,0 +1,134 @@
+.top {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+}
+.top1 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 100px;
+  bottom: 100px;
+}
+.top2 {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 200px;
+  bottom: 200px;
+}
+.top3 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  left: 300px;
+  bottom: 300px;
+}
+
+
+
+/* SECOND BOX */
+.top-left1 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 300px;
+
+}
+.top-left2 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 400px;
+  left: 100px;
+}
+.top-left3 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 500px;
+  left: 200px;
+}
+.top-left4 {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 600px;
+  left: 300px;
+}
+
+
+/* THIRD SECTION */
+.top-right1 {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 600px;
+
+}
+.top-right2 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 700px;
+  left: 100px;
+
+}
+.top-right3 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 800px;
+  left: 200px;
+}
+.top-right4 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 900px;
+  left: 300px;
+}
+
+/* BOTTOM SECTION */
+.bottom1 {
+  background-color: blue;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 900px;
+}
+.bottom2 {
+  background-color: yellow;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 1000px;
+  left: 100px;
+}
+.bottom3 {
+  background-color: green;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 1100px;
+  left: 200px;
+}
+.bottom4 {
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  position: relative;
+  bottom: 1200px;
+  left: 300px;
+}
